@@ -63,6 +63,7 @@ File HTML sau có thể dùng để tái hiện lỗ hổng, hoặc test trực 
 ### Kết quả
 
 ![poc_coccoc_xss](./images/poc_coccoc_xss.png)
+
 *Hình 1: XSS được trigger khi bôi đen text trong `<textarea>` — alert hiển thị `document.domain` xác nhận thực thi trong context trang web*
 
 > **Lưu ý:** Video PoC gốc minh họa toàn bộ quá trình khai thác không còn khả dụng. Lỗ hổng đã được xác nhận fix bởi vendor.
@@ -99,3 +100,4 @@ Cảm ơn đội ngũ hỗ trợ kỹ thuật Cốc Cốc đã tiếp nhận bá
 
 ![coccoc_fb_chat_2](./images/coccoc_fb_chat_2.png)
 *Hình 3: Cốc Cốc xác nhận đã nhận và chuyển cho đội phát triển*
+
