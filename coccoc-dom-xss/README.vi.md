@@ -96,8 +96,11 @@ File HTML sau có thể dùng để tái hiện lỗ hổng, hoặc test trực 
 Cảm ơn đội ngũ hỗ trợ kỹ thuật Cốc Cốc đã tiếp nhận báo cáo và phối hợp khắc phục.
 
 ![coccoc_fb_chat_1](./images/coccoc_fb_chat_1.png)
+
 *Hình 2: Liên hệ ban đầu với Cốc Cốc qua Facebook*
 
 ![coccoc_fb_chat_2](./images/coccoc_fb_chat_2.png)
+
 *Hình 3: Cốc Cốc xác nhận đã nhận và chuyển cho đội phát triển*
+
 
