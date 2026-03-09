@@ -15,6 +15,7 @@ focused on web application security and AI-augmented security research.
 
 ## Contact
 - GitHub: https://github.com/vuvannam12082005
-- LinkedIn: www.linkedin.com/in/nam-vũ-văn-737b21394
+- LinkedIn: https://www.linkedin.com/in/nam-vũ-văn-737b21394
 - Email: vuvannamnam1201@gmail.com
+
 
