@@ -63,6 +63,7 @@ The following HTML file can be used to reproduce the vulnerability. It can also 
 ### Result
 
 ![poc_coccoc_xss](./images/poc_coccoc_xss.png)
+
 *Figure 1: XSS triggered when highlighting text in `<textarea>` — alert displays `document.domain` confirming execution in page context*
 
 > **Note:** The original video PoC demonstrating the full exploitation flow is no longer available. The vulnerability has been confirmed fixed by the vendor.
@@ -95,7 +96,10 @@ The following HTML file can be used to reproduce the vulnerability. It can also 
 Thanks to the Cốc Cốc technical support team for acknowledging the report and coordinating the fix.
 
 ![coccoc_fb_chat_1](./images/coccoc_fb_chat_1.png)
+
 *Figure 2: Initial contact with Cốc Cốc support via Facebook*
 
 ![coccoc_fb_chat_2](./images/coccoc_fb_chat_2.png)
+
 *Figure 3: Cốc Cốc confirmed receipt and forwarded to development team*
+
