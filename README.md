@@ -14,9 +14,8 @@ Cybersecurity student at HUST (Hanoi University of Science and Technology),
 focused on web application security and AI-augmented security research.
 
 ## Contact
-- GitHub: https://github.com/vuvannam12082005
-- LinkedIn: https://www.linkedin.com/in/namvuvan-security
-- Email: vuvannamnam1201@gmail.com
-
-
+- 📧 **Email**: vuvannam.sec@gmail.com
+- 🐦 **X/Twitter**: [@vuvannam_sec](https://x.com/vuvannam_sec)
+- 💻 **GitHub**: [@vuvannam-sec](https://github.com/vuvannam-sec)
+- 💼 **LinkedIn**: [namvuvan-security](https://www.linkedin.com/in/namvuvan-security).
 
